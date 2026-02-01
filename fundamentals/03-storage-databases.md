@@ -840,4 +840,4 @@ print(r.get('key'))
 
 ---
 
-[Next Chapter: Networking on GCP →](./04-gcp-networking.md)
+[Next Chapter: Networking on GCP →](./04-networking.md)

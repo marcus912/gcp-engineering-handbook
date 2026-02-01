@@ -497,4 +497,4 @@ After:  "Think of our database like a restaurant with 100 tables.
 
 ---
 
-[Next Chapter: Distributed Systems Concepts →](./12-distributed-systems.md)
+[Next Chapter: Distributed Systems Concepts →](../distributed-systems/12-distributed-systems.md)

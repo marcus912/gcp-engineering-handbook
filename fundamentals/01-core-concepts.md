@@ -568,4 +568,4 @@ gcloud asset search-all-resources --scope=projects/PROJECT_ID
 
 ---
 
-[Next Chapter: Compute Services →](./02-gcp-compute.md)
+[Next Chapter: Compute Services →](./02-compute.md)

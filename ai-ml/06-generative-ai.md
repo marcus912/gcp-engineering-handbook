@@ -711,4 +711,4 @@ Your RAG work at Fortinet maps directly to GCP:
 
 ---
 
-[Next Chapter: TCP/IP & The Network Stack →](./07-networking-tcpip.md)
+[Next Chapter: TCP/IP & The Network Stack →](../networking/07-tcpip.md)

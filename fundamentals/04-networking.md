@@ -686,4 +686,4 @@ gcloud compute firewall-rules update my-rule \
 
 ---
 
-[Next Chapter: Vertex AI & Machine Learning →](./05-vertex-ai.md)
+[Next Chapter: Vertex AI & Machine Learning →](../ai-ml/05-vertex-ai.md)

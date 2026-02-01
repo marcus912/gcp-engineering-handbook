@@ -631,4 +631,4 @@ kubectl get endpoints SERVICE_NAME
 
 ---
 
-[Next Chapter: Storage & Databases →](./03-gcp-storage-databases.md)
+[Next Chapter: Storage & Databases →](./03-storage-databases.md)
