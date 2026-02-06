@@ -1,12 +1,10 @@
 # GCP Engineering Handbook
 
-A comprehensive study guide for Google Cloud Platform engineering.
+A comprehensive handbook for Google Cloud Platform engineering.
 
 ## Overview
 
 This handbook covers GCP architecture, systems fundamentals, and practical troubleshooting skills for cloud engineers.
-
-**Total study time**: ~30 hours
 
 ## Contents
 
@@ -34,19 +32,20 @@ This handbook covers GCP architecture, systems fundamentals, and practical troub
 | Chapter | Topic | Key Concepts |
 |---------|-------|--------------|
 | [09](systems/09-linux.md) | Linux Systems | Process management, memory, disk I/O, systemd |
-| [10](systems/10-containers-kubernetes.md) | Containers & K8s | Docker, Kubernetes architecture, GKE |
-| [11](systems/11-troubleshooting.md) | Troubleshooting | Methodology, scenarios, incident response |
+| [10](systems/10-containers-kubernetes.md) | Containers & K8s | Docker, Kubernetes, cgroups, perf, strace, eBPF, distributed debugging |
+| [11](systems/11-troubleshooting.md) | Troubleshooting | Methodology, escalation management, on-call, SLOs/SLIs/SLAs |
 
 ### Part V: Distributed Systems
 | Chapter | Topic | Key Concepts |
 |---------|-------|--------------|
 | [12](distributed-systems/12-distributed-systems.md) | Distributed Systems | CAP theorem, consistency, replication, patterns |
 
-### Part VI: Programming
+### Part VI: Programming & Tools
 | Chapter | Topic | Key Concepts |
 |---------|-------|--------------|
 | [13](programming/13-go.md) | Go | Syntax, concurrency, goroutines, channels |
 | [14](programming/14-python.md) | Python | GCP client libraries, automation, scripting |
+| [15](programming/15-developer-tools.md) | Developer Tools | Automation, CLI tools, testing frameworks, debugging tools |
 
 ### Hands-on
 | Resource | Description |

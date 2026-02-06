@@ -547,12 +547,4 @@ if __name__ == "__main__":
 
 ---
 
-## Congratulations!
-
-You've completed the study book. Now:
-1. Review the chapters you're weakest in
-2. Do the hands-on exercises
-3. Practice mock interviews
-4. Build something on GCP
-
-Good luck with your Google interview!
+[Next Chapter: Developer Tools →](./15-developer-tools.md)
