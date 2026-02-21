@@ -27,6 +27,7 @@ This handbook covers GCP architecture, systems fundamentals, and practical troub
 |---------|-------|--------------|
 | [07](networking/07-tcpip.md) | TCP/IP | OSI model, TCP/UDP, routing, NAT, ICMP |
 | [08](networking/08-dns-http.md) | DNS & HTTP | DNS resolution, HTTP methods, TLS, status codes |
+| [23](networking/23-network-tracing-cli.md) | Network Tracing & CLI Tools | ping, traceroute, tcpdump, dig, ss, routing, iptables, curl, troubleshooting strategies |
 
 ### Part IV: Systems & Debugging
 | Chapter | Topic | Key Concepts |
@@ -46,6 +47,17 @@ This handbook covers GCP architecture, systems fundamentals, and practical troub
 | [13](programming/13-go.md) | Go | Syntax, concurrency, goroutines, channels |
 | [14](programming/14-python.md) | Python | GCP client libraries, automation, scripting |
 | [15](programming/15-developer-tools.md) | Developer Tools | Automation, CLI tools, testing frameworks, debugging tools |
+
+### Part VII: Kubernetes Operations
+| Chapter | Topic | Key Concepts |
+|---------|-------|--------------|
+| [16](kubernetes/16-monitoring-observability.md) | K8s Monitoring & Observability | Prometheus, Grafana, kube-state-metrics, alerting, dashboards |
+| [17](kubernetes/17-debugging.md) | K8s Debugging Deep Dive | Pod lifecycle, scheduling, storage, RBAC, Helm, CRDs, tools |
+| [18](kubernetes/18-networking.md) | K8s Networking Deep Dive | CNI, kube-proxy, DNS, network policies, ingress, service mesh |
+| [19](kubernetes/19-security.md) | K8s Security & Access Control | Pod Security Standards, secrets, image security, audit logging |
+| [20](kubernetes/20-cluster-operations.md) | K8s Cluster Operations | Control plane, etcd, upgrades, capacity planning, DR, runbooks |
+| [21](kubernetes/21-reliability.md) | K8s Reliability Engineering | HA patterns, chaos engineering, progressive delivery, auto-healing |
+| [22](kubernetes/22-troubleshooting-scenarios.md) | K8s Troubleshooting Scenarios | Production scenarios, incident response, diagnostic workflows |
 
 ### Hands-on
 | Resource | Description |

@@ -1146,4 +1146,4 @@ def with_progress(items, description):
 
 ---
 
-[Back to Contents →](../README.md)
+[Next Chapter: Kubernetes Monitoring & Observability →](../kubernetes/16-monitoring-observability.md)
