@@ -1,4 +1,4 @@
-# Chapter 10: Containers & Kubernetes
+# Chapter 12: Containers & Kubernetes
 
 ## 10.1 Container Fundamentals
 
@@ -1388,7 +1388,7 @@ gcloud trace traces list \
 
 ---
 
-## Chapter 10 Review Questions
+## Chapter 12 Review Questions
 
 ### Basic Kubernetes
 1. What's the difference between a Deployment and a ReplicaSet?
@@ -1427,7 +1427,7 @@ gcloud trace traces list \
 
 ---
 
-## Chapter 10 Hands-On Exercises
+## Chapter 12 Hands-On Exercises
 
 ### Exercise 10.1: Basic Container Debugging
 1. Run a container and inspect its cgroup

@@ -1,4 +1,4 @@
-# Chapter 15: Building Developer Tools
+# Chapter 16: Building Developer Tools
 
 ## 15.1 Why Build Developer Tools?
 
@@ -1101,7 +1101,7 @@ def with_progress(items, description):
 
 ---
 
-## Chapter 15 Review Questions
+## Chapter 16 Review Questions
 
 1. When should you write a script vs a full CLI tool?
 
@@ -1115,7 +1115,7 @@ def with_progress(items, description):
 
 ---
 
-## Chapter 15 Hands-On Exercises
+## Chapter 16 Hands-On Exercises
 
 ### Exercise 15.1: Build a Diagnostic Script
 1. Create a script that gathers GCP project diagnostics

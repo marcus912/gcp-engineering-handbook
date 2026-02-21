@@ -1,4 +1,4 @@
-# Chapter 7: TCP/IP & The Network Stack
+# Chapter 8: TCP/IP & The Network Stack
 
 This chapter covers networking fundamentals that are critical for troubleshooting customer issues.
 
@@ -642,7 +642,7 @@ Possible causes:
 
 ---
 
-## Chapter 7 Review Questions
+## Chapter 8 Review Questions
 
 1. Explain the TCP three-way handshake and why each step is necessary.
 
@@ -658,7 +658,7 @@ Possible causes:
 
 ---
 
-## Chapter 7 Hands-On Exercises
+## Chapter 8 Hands-On Exercises
 
 ### Exercise 7.1: TCP Analysis
 1. Use tcpdump to capture a TCP handshake

@@ -1,6 +1,6 @@
-# Chapter 19: Kubernetes Security &amp; Access Control
+# Chapter 20: Kubernetes Security & Access Control
 
-**Prerequisites:** Chapter 1 (IAM & Identity), Chapter 10 (Containers & Kubernetes Fundamentals)
+**Prerequisites:** Chapter 1 (IAM & Identity), Chapter 12 (Containers & Kubernetes Fundamentals)
 
 Kubernetes security is a multi-layered discipline that requires defense in depth across cloud infrastructure, cluster configuration, container runtime, and application code. This chapter covers the essential security controls, best practices, and tools for securing production Kubernetes environments on GKE.
 
@@ -2432,7 +2432,7 @@ kubectl label namespace production istio-injection=enabled
 
 ---
 
-## Chapter 19 Review Questions
+## Chapter 20 Review Questions
 
 1. **Multi-layered Defense:** Explain the 4 C's of Cloud Native Security and provide one concrete security control at each layer for a GKE application. How does failure at one layer get mitigated by controls at other layers?
 
@@ -2446,7 +2446,7 @@ kubectl label namespace production istio-injection=enabled
 
 ---
 
-## Chapter 19 Hands-On Exercises
+## Chapter 20 Hands-On Exercises
 
 ### Exercise 1: Implement Defense in Depth
 

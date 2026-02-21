@@ -1,4 +1,4 @@
-# Chapter 12: Distributed Systems Concepts
+# Chapter 5: Distributed Systems Concepts
 
 ## 12.1 Why Distributed Systems?
 
@@ -441,7 +441,7 @@ Design considerations:
 
 ---
 
-## Chapter 12 Review Questions
+## Chapter 5 Review Questions
 
 1. Explain CAP theorem. Give examples of CP and AP systems.
 

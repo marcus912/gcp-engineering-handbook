@@ -1,4 +1,4 @@
-# Chapter 6: Generative AI on GCP
+# Chapter 7: Generative AI on GCP
 
 This chapter is especially relevant given your RAG and LLM experience at Fortinet. It will help you translate your knowledge to GCP's offerings.
 
@@ -648,7 +648,7 @@ Google's approach to ethical AI.
 
 ---
 
-## Chapter 6 Review Questions
+## Chapter 7 Review Questions
 
 1. When would you use Vertex AI Search vs custom RAG implementation?
 
@@ -664,7 +664,7 @@ Google's approach to ethical AI.
 
 ---
 
-## Chapter 6 Hands-On Exercises
+## Chapter 7 Hands-On Exercises
 
 ### Exercise 6.1: Basic Gemini
 1. Use Gemini API for text generation

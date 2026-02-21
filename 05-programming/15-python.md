@@ -1,4 +1,4 @@
-# Chapter 14: Python for Cloud Engineers
+# Chapter 15: Python for Cloud Engineers
 
 Python is essential for automation, scripting, and working with GCP APIs.
 
@@ -522,7 +522,7 @@ if __name__ == "__main__":
 
 ---
 
-## Chapter 14 Review Questions
+## Chapter 15 Review Questions
 
 1. How do you authenticate with GCP client libraries?
 

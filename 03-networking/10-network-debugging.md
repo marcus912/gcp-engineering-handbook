@@ -1,4 +1,4 @@
-# Chapter 23: Network Tracing & CLI Tools
+# Chapter 10: Network Debugging
 
 This chapter covers hands-on network debugging with CLI tools — the practical counterpart to the theory in Chapters 7 and 8.
 
@@ -1173,7 +1173,7 @@ $ diff /tmp/trace-good.txt /tmp/trace-bad.txt
 
 ---
 
-## Chapter 23 Review Questions
+## Chapter 10 Review Questions
 
 1. You run `mtr --report -c 100` and see 10% packet loss at hop 3, but 0% at the final destination. Is hop 3 losing packets? Explain.
 
@@ -1189,7 +1189,7 @@ $ diff /tmp/trace-good.txt /tmp/trace-bad.txt
 
 ---
 
-## Chapter 23 Hands-On Exercises
+## Chapter 10 Hands-On Exercises
 
 ### Exercise 23.1: Connectivity Diagnosis
 1. Use `ping` with `-M do` to discover the path MTU to a remote host

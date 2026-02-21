@@ -1,4 +1,4 @@
-# Chapter 8: DNS, HTTP & Web Protocols
+# Chapter 9: DNS, HTTP & Web Protocols
 
 ## 8.1 DNS (Domain Name System)
 
@@ -610,7 +610,7 @@ Access-Control-Expose-Headers: X-Custom-Header
 
 ---
 
-## Chapter 8 Review Questions
+## Chapter 9 Review Questions
 
 1. Walk through the complete DNS resolution process for www.example.com.
 
@@ -626,7 +626,7 @@ Access-Control-Expose-Headers: X-Custom-Header
 
 ---
 
-## Chapter 8 Hands-On Exercises
+## Chapter 9 Hands-On Exercises
 
 ### Exercise 8.1: DNS Investigation
 1. Use dig to trace DNS resolution for a domain

@@ -1,4 +1,4 @@
-# Chapter 11: Troubleshooting Methodology
+# Chapter 13: Troubleshooting Methodology
 
 ## 11.1 The Troubleshooting Framework
 
@@ -849,7 +849,7 @@ After:  "Think of our database like a restaurant with 100 tables.
 
 ---
 
-## Chapter 11 Review Questions
+## Chapter 13 Review Questions
 
 ### Basic Troubleshooting
 1. A customer reports "the app is slow." Walk through your troubleshooting process.
@@ -877,7 +877,7 @@ After:  "Think of our database like a restaurant with 100 tables.
 
 ---
 
-## Chapter 11 Hands-On Exercises
+## Chapter 13 Hands-On Exercises
 
 ### Exercise 11.1: Incident Simulation
 1. Set up a sample application on GKE

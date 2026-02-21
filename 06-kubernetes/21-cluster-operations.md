@@ -1,6 +1,6 @@
-# Chapter 20: Kubernetes Cluster Operations
+# Chapter 21: Kubernetes Cluster Operations
 
-**Prerequisites**: This chapter builds on cluster setup (Chapter 10), monitoring (Chapter 11), and security (Chapter 16).
+**Prerequisites**: This chapter builds on Containers & Kubernetes (Chapter 12), Troubleshooting (Chapter 13), and Monitoring & Observability (Chapter 17).
 
 Operating a production Kubernetes cluster requires deep understanding of control plane health, data management, upgrade strategies, and disaster recovery procedures. This chapter covers the operational aspects that keep clusters running reliably at scale.
 
@@ -2744,7 +2744,7 @@ etcdctl del /registry/namespaces/<namespace>
 
 ---
 
-## Chapter 20 Review Questions
+## Chapter 21 Review Questions
 
 1. **What are the three health endpoints provided by the Kubernetes API server, and what is the difference between them?**
 
@@ -2758,7 +2758,7 @@ etcdctl del /registry/namespaces/<namespace>
 
 ---
 
-## Chapter 20 Hands-On Exercises
+## Chapter 21 Hands-On Exercises
 
 1. **etcd Backup and Restore Simulation**
    - Take an etcd snapshot

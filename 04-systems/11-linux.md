@@ -1,4 +1,4 @@
-# Chapter 9: Linux Systems Administration
+# Chapter 11: Linux Systems Administration
 
 ## 9.1 Process Management
 
@@ -456,7 +456,7 @@ cat /proc/PID/status | grep State
 
 ---
 
-## Chapter 9 Review Questions
+## Chapter 11 Review Questions
 
 1. A process is using 100% CPU. How do you diagnose and resolve?
 

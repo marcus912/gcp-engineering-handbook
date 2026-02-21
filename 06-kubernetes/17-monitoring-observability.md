@@ -1,6 +1,6 @@
-# Chapter 16: Kubernetes Monitoring & Observability
+# Chapter 17: Kubernetes Monitoring & Observability
 
-> **Prerequisites**: Chapter 10 (Containers & Kubernetes), Chapter 11 (Troubleshooting Methodology)
+> **Prerequisites**: Chapter 12 (Containers & Kubernetes), Chapter 13 (Troubleshooting Methodology)
 
 ## 16.1 The Kubernetes Observability Stack
 
@@ -616,7 +616,7 @@ Key fields to include:
 
 ---
 
-## Chapter 16 Review Questions
+## Chapter 17 Review Questions
 
 1. What are the three pillars of observability and how do they complement each other in Kubernetes?
 
@@ -630,7 +630,7 @@ Key fields to include:
 
 ---
 
-## Chapter 16 Hands-On Exercises
+## Chapter 17 Hands-On Exercises
 
 ### Exercise 16.1: Deploy Monitoring Stack
 1. Install kube-prometheus-stack via Helm in a test cluster

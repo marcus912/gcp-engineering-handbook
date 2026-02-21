@@ -1,6 +1,6 @@
-# Chapter 22: Kubernetes Troubleshooting Scenarios
+# Chapter 23: Kubernetes Troubleshooting Scenarios
 
-> **Prerequisites**: Chapter 10 (Containers & Kubernetes), Chapter 16 (Monitoring & Observability), Chapter 17 (Debugging Deep Dive), Chapter 18 (Networking)
+> **Prerequisites**: Chapter 12 (Containers & Kubernetes), Chapter 17 (Monitoring & Observability), Chapter 18 (Debugging Deep Dive), Chapter 19 (Networking)
 
 This chapter presents real-world Kubernetes troubleshooting scenarios organized by category. Each scenario follows a structured format: **Symptoms → Investigation → Root Cause → Resolution → Prevention**. Use these as runbooks during incidents and as study material for building diagnostic intuition.
 

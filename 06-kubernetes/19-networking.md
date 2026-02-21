@@ -1,6 +1,6 @@
-# Chapter 18: Kubernetes Networking Deep Dive
+# Chapter 19: Kubernetes Networking Deep Dive
 
-**Prerequisites:** This chapter builds on Chapter 7 (TCP/IP Fundamentals), Chapter 8 (DNS & HTTP), and Chapter 10 (Containers & Kubernetes Basics). Familiarity with Linux networking concepts (iptables, routing, network namespaces) is strongly recommended.
+**Prerequisites:** This chapter builds on Chapter 8 (TCP/IP Fundamentals), Chapter 9 (DNS & HTTP), and Chapter 12 (Containers & Kubernetes Basics). Familiarity with Linux networking concepts (iptables, routing, network namespaces) is strongly recommended.
 
 Kubernetes networking is often cited as one of the most complex aspects of the platform. Understanding how pods communicate, how services provide stable endpoints, and how traffic flows through the cluster is essential for troubleshooting production issues and designing reliable applications.
 
@@ -2292,7 +2292,7 @@ netstat -antp
 
 ---
 
-## Chapter 18 Review Questions
+## Chapter 19 Review Questions
 
 1. **Explain the Kubernetes networking model.** What are the four fundamental requirements? Why is the "flat network" model simpler than NAT-based approaches?
 
@@ -2306,7 +2306,7 @@ netstat -antp
 
 ---
 
-## Chapter 18 Hands-On Exercises
+## Chapter 19 Hands-On Exercises
 
 **Exercise 1: Diagnose Network Policy Issue**
 

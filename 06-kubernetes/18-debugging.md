@@ -1,6 +1,6 @@
-# Chapter 17: Kubernetes Debugging Deep Dive
+# Chapter 18: Kubernetes Debugging Deep Dive
 
-**Prerequisites**: Chapter 10 (Workload Fundamentals), Chapter 11 (ConfigMaps & Secrets), Chapter 16 (Troubleshooting)
+**Prerequisites**: Chapter 12 (Containers & Kubernetes), Chapter 13 (Troubleshooting Methodology), Chapter 17 (Monitoring & Observability)
 
 Debugging Kubernetes issues requires systematic methodology and deep understanding of cluster components. This chapter covers production debugging techniques, common failure patterns, and specialized tooling for resolving complex issues.
 
@@ -1927,7 +1927,7 @@ chmod +x debug-pod.sh
 
 ---
 
-## Chapter 17 Review Questions
+## Chapter 18 Review Questions
 
 1. A pod is stuck in `CrashLoopBackOff` state. You run `kubectl logs my-pod` but see "Error from server (BadRequest): previous terminated container not found". What is the likely issue and how would you debug it?
 
@@ -1941,7 +1941,7 @@ chmod +x debug-pod.sh
 
 ---
 
-## Chapter 17 Hands-On Exercises
+## Chapter 18 Hands-On Exercises
 
 ### Exercise 1: Multi-Level Debugging
 

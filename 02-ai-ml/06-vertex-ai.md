@@ -1,4 +1,4 @@
-# Chapter 5: Vertex AI & Machine Learning on GCP
+# Chapter 6: Vertex AI & Machine Learning on GCP
 
 ## 5.1 ML on GCP Overview
 
@@ -630,7 +630,7 @@ gcloud ai endpoints describe ENDPOINT_ID --region=us-central1
 
 ---
 
-## Chapter 5 Review Questions
+## Chapter 6 Review Questions
 
 1. When would you use AutoML vs custom training?
 
@@ -646,7 +646,7 @@ gcloud ai endpoints describe ENDPOINT_ID --region=us-central1
 
 ---
 
-## Chapter 5 Hands-On Exercises
+## Chapter 6 Hands-On Exercises
 
 ### Exercise 5.1: AutoML
 1. Upload a sample dataset to Vertex AI

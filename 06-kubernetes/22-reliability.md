@@ -1,6 +1,6 @@
-# Chapter 21: Kubernetes Reliability Engineering
+# Chapter 22: Kubernetes Reliability Engineering
 
-**Prerequisites:** Before reading this chapter, ensure you understand Kubernetes fundamentals (Chapter 10), workload management (Chapter 11), and observability concepts (Chapter 16).
+**Prerequisites:** Before reading this chapter, ensure you understand Containers & Kubernetes (Chapter 12), Troubleshooting (Chapter 13), and Monitoring & Observability (Chapter 17).
 
 Reliability engineering in Kubernetes goes beyond simply keeping applications running. It encompasses designing systems that gracefully handle failures, automatically recover from issues, and maintain service quality even under adverse conditions. This chapter explores the principles, patterns, and practices that enable you to build highly reliable Kubernetes workloads.
 
@@ -2571,7 +2571,7 @@ promotion_date: "2026-02-20"
 
 ---
 
-## Chapter 21 Review Questions
+## Chapter 22 Review Questions
 
 1. **Explain the difference between error budgets and SLOs. How would you use a 99.9% availability SLO to calculate the monthly error budget? What actions would you take if the error budget is 75% consumed halfway through the month?**
 
@@ -2585,7 +2585,7 @@ promotion_date: "2026-02-20"
 
 ---
 
-## Chapter 21 Hands-On Exercises
+## Chapter 22 Hands-On Exercises
 
 **Exercise 1: Implement Complete High Availability**
 
